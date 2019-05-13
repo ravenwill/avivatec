@@ -1,0 +1,226 @@
+.cabecalho {
+    height: 1400px;
+    background-color: #0c102a;
+}
+
+.navegacao {
+    margin-top: 100px;
+}
+
+
+.nav a {
+    color: #fff;
+    font-size: 17px;
+    font-weight: 300;
+    line-height: 17px;
+}
+
+.nav-link {
+    margin-right: 60px;
+}
+
+.banner {
+    margin-top: 110px;
+}
+
+.banner-h1 {
+    font-size: 60px;
+    line-height: 50px;
+    font-weight: 100;
+}
+
+.descr-banner-h1 {
+    font-size: 17px;
+    margin-top: 40px;
+    color: #9395a1;
+}
+
+.quanto-precisa {
+    margin-top: 50px;
+}
+
+.quanto-precisa img {
+    vertical-align: bottom;
+}
+
+.card-quanto-precisa .card-header {
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 640;
+}
+
+.link {
+    cursor: pointer;
+}
+
+.preco .card-title {
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 14px;
+    font-weight: 645;
+}
+
+.card-footer {
+    color: #a09f9f;
+    font-size: 11px;
+} 
+
+.preco-ativo {
+    background-color: #fedd00;
+    border: 2px solid #fedd00;
+}
+
+.preco-ativo:hover {
+    background-color: #d4b906;
+}
+
+.preco-secundario {
+    background-color: #fff;
+    border: 2px solid #9395a1;
+}
+
+.preco-secundario:hover {
+    background-color: #9395a1;
+    color: #fff;
+}
+
+.cadastro {
+    margin-top: 45px;
+}
+
+.cadastro a {
+    font-weight: 500;
+}
+
+.separador {
+    margin-top: 70px;
+}
+
+.como-funciona {
+    margin-top: 70px;
+}
+
+.como-funciona h1 {
+    font-size: 50px;
+}
+
+.btn-enviar {
+    background: #fedd00;
+}
+
+.btn-enviar:hover {
+    background-color: #d4b906;
+}
+
+
+.passos {
+    margin-top: 70px;
+    font-weight: 100;
+    font-size: 15px;
+    color: #313131;
+}
+
+.numero {
+    font-size: 120px;
+    line-height: 80px;
+    color: #fedd00;
+    position: absolute;
+}
+
+.vantagem {
+    height: 170px;
+    background-color: #fedd00;
+    font-size: 14px;
+}
+
+.vantagem p:first-child {
+    font-weight: 500;
+}
+
+.invista-em-voce {
+    height: 470px;
+}
+
+.invista-em-voce h2 {
+    font-size: 50px;
+    margin-top: 80px;
+}
+
+.invista-em-voce p {
+    font-size: 17px;
+    letter-spacing: 0.5px;
+    line-height: 27px;
+}
+
+.group {
+    margin-bottom: 10px; 
+}
+
+.tudo-online {
+    height: 260px;
+    background-color: #fedd00;
+}
+
+.tudo-online h2 {
+    margin-top: 50px;
+    font-size: 32px;
+    font-weight: 440;
+}
+
+.tudo-online p {
+    color: #313131;
+}
+
+.tudo-online p:nth-child(2) {
+    color: #313131;
+    font-weight: 600;
+}
+
+.rodape {
+    height: 920px;
+    background-color: #0c102a;
+}
+
+.rodape img:nth-child(1) {
+    margin-top: 110px;
+    margin-bottom: 90px;
+}
+
+.link-footer {
+    margin-bottom: 30px;
+}
+
+
+.descricao-rodape {
+    font-size: 15px;
+    line-height: 22px;
+}
+
+.link-footer a {
+    color: #aa950e;
+}
+
+.alerta-dialogo {
+    background-color: #ea2b6d;
+}
+
+.alerta-dialogo img {
+    margin-top: -2px;
+}
+
+.alerta-dialogo .close {
+    font-weight: 200;
+    margin-top: -1px;
+    text-shadow: none;
+    color: #fff;
+}
+
+.alerta-dialogo .col-12 {
+    margin-top: 11px;
+    margin-bottom: 11px;
+}
+
+.text-alerta {
+    font-size: 15px;
+    font-weight: 200;
+}
